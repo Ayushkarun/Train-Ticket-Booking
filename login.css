@@ -1,0 +1,72 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins",sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(https://www.alstom.com/sites/alstom.com/files/2023/09/27/Key-visual_Alstom-livery_Adessia-commuter-train_HF.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.login{
+ 
+    background-color:white;
+    font-size: 30px;
+    text-align: center;
+    width: 500px;
+    background: transparent;
+    border: 2px solid  rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+
+    color: #fff;
+    border-radius: 100px;
+
+}
+
+.Username input {
+    width: 50%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-radius: 40px;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 45px 20px 20px;
+}
+
+.Submit {
+    width: 50%;
+    height: 100%;
+    border-radius: 60px;
+    font-size: 16px;
+    border: none;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #04AA6D;
+}
+
+
+a {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+        color: white;
+}
+
+
+
+
