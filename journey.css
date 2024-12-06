@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins",sans-serif;
+}
+
+body{
+
+    min-height: 100vh;
+    background: url(https://cdn.britannica.com/28/233928-050-CC617C2B/high-speed-railway-commuter-train.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h2 {
+    color: black;
+    font-size: 50px; 
+    background-color:whitesmoke;
+    font-family: verdana;
+    border: 10px solid red;
+    padding: 10px;
+  }
+
+  p{
+    border: 3px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.From{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:white;
+    font-size: 30px;
+    text-align: center;
+    width: 680px;
+    height: 320px;
+    background: transparent;
+    border: 2px solid  rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    color: #fff;
+    border-radius: 100px;
+    margin-top: 5px;  
+    margin-left: 400px;
+
+}
+
+.From input{
+background: transparent;
+border: none;
+outline: none;
+border: 2px solid rgba(255, 255, 255, .2);
+border-radius: 40px;
+font-size: 16px;
+color: #fff;
+padding: 20px 45px 20px 20px;
+}
+
+
+
+.Submit {
+
+    width: 20%;
+    height: 100%;
+    border-radius: 60px;
+    font-size: 16px;
+    border: none;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #04AA6D;
+    margin-top: 40px;  
+    margin-left: 600px;
+}
+
+a {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    color: white;
+}
