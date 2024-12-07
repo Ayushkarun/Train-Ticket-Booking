@@ -1,0 +1,82 @@
+body{
+   
+    background: url(https://images.squarespace-cdn.com/content/v1/5b90c34812b13f5203c9ea50/1655184285867-6PK5HTUGVMOTBON77JOE/A330-6%2BTrain%2BCabin_Day%2BRecliners%2B-%2BCopy.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h2 {
+    color: black;
+    font-size: 50px; 
+    background-color:transparent;
+    backdrop-filter: blur(20px);
+    font-family: verdana;
+    border: 1px solid blue;
+    padding: 2px;
+  }
+
+p{
+    border: 4px solid black;
+    background-color:white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: 30px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    color: black;
+}
+
+.ac{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+    font-size: 30px;
+    text-align: center;
+    width: 680px;
+    height: 200px;
+    background: transparent;
+    border: 2px solid  rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(20px);
+    color: #fff;  
+    margin-left: 400px;
+}
+
+.sl{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+    font-size: 30px;
+    text-align: center;
+    width: 680px;
+    height: 220px;
+    background: transparent;
+    border: 2px solid  rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(20px);
+    color: #fff;  
+    margin-left: 400px;
+}
+
+.Submit {
+    width: 20%;
+    height: 100%;
+    border-radius: 60px;
+    font-size: 16px;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: rgb(234, 255, 0);
+    margin-top: 5px;  
+    margin-left: 580px;
+
+}
+
+a {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+
+}
+
