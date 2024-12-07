@@ -16,7 +16,6 @@ body{
 }
 
 .login{
- 
     background-color:white;
     font-size: 30px;
     text-align: center;
@@ -24,10 +23,8 @@ body{
     background: transparent;
     border: 2px solid  rgba(255, 255, 255, .2);
     backdrop-filter: blur(20px);
-
     color: #fff;
     border-radius: 100px;
-
 }
 
 .Username input {
@@ -64,7 +61,7 @@ body{
 a {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 24px;
-        color: white;
+    color: white;
 }
 
 
