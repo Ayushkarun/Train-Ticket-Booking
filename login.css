@@ -17,11 +17,11 @@ body{
 
 .login{
     background-color:white;
-    font-size: 30px;
+    font-size: 35px;
     text-align: center;
     width: 500px;
     background: transparent;
-    border: 2px solid  rgba(255, 255, 255, .2);
+    border: 3px solid  rgba(255, 255, 255, .2);
     backdrop-filter: blur(20px);
     color: #fff;
     border-radius: 100px;
